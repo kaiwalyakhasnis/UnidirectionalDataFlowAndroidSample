@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iTunesSearch</string>
+    <string name="base_url">https://itunes.apple.com</string>
+
+    <string name="error_something_went_wrong">Something went wrong.. Try again</string>
+    <string name="previews_not_available">No search results available for given search term</string>
+
+    <string name="retry">Retry</string>
+    <string name="search_term_error">please enter search term</string>
+    <string name="search_term">Search Term</string>
+    <string name="search">Search</string>
+</resources>
